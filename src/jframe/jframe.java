@@ -17,8 +17,9 @@ public class jframe {
 		frame.getContentPane().add(emptyLabel, BorderLayout.CENTER);
 		
 		frame.pack();
+		https://github.com/dvancleave/proj.git
 
-		frame.setVisible(true);z
+		frame.setVisible(true);
 	}
 	
 	public static void main(String[] args) {
