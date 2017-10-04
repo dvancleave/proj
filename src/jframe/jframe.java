@@ -18,6 +18,7 @@ public class jframe {
 		
 		frame.pack();
 		frame.pack();
+		frame.pack();
 		frame.setVisible(true);
 	}
 	
